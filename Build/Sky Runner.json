@@ -1,0 +1,17 @@
+{
+"companyName": "IDK WHAT I'M DOING",
+"productName": "Sky Runner",
+"productVersion": "0.1",
+"dataUrl": "Sky Runner.data.unityweb",
+"wasmCodeUrl": "Sky Runner.wasm.code.unityweb",
+"wasmFrameworkUrl": "Sky Runner.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Sky Runner.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.0a7"
+}
